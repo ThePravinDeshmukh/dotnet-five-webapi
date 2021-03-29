@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Yd47qix9/zIHifKpv/Tu20KSmtuDGEIQalJZT0/OC0NYN1nqiiJBzzqAvpEdQEGQRVucHc4k1pVfT4Z2Ofkuw==",
+  "success": true,
+  "projectFilePath": "D:\\code\\git\\dotnet-five-webapi\\dotnet-five-webapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pravin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Pravin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Pravin\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Pravin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Pravin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Pravin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
